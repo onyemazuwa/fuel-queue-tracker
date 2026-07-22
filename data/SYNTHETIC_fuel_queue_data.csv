@@ -1,0 +1,136 @@
+Date,Time of Day,Station Name/Brand,Queue Length,Estimated Wait Time (mins),Price per Liter (NGN)
+2026-07-06,Afternoon,Mobil - Eku Junction,Medium (6-15 cars),11,625
+2026-07-06,Afternoon,Independent - Umeh Filling Station,Medium (6-15 cars),12,643
+2026-07-06,Afternoon,Total - Abraka Market Rd,None,0,631
+2026-07-06,Afternoon,NNPC - Abraka Road,Medium (6-15 cars),16,615
+2026-07-06,Evening,Mobil - Eku Junction,Long (15+ cars),28,627
+2026-07-06,Evening,Independent - Umeh Filling Station,Short (1-5 cars),8,640
+2026-07-06,Morning,NNPC - Abraka Road,Medium (6-15 cars),23,613
+2026-07-07,Afternoon,Mobil - Eku Junction,Short (1-5 cars),2,628
+2026-07-07,Afternoon,Conoil - Obiaruku Road,Medium (6-15 cars),11,620
+2026-07-07,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),15,626
+2026-07-08,Afternoon,Conoil - Obiaruku Road,Medium (6-15 cars),12,626
+2026-07-08,Afternoon,Mobil - Eku Junction,Short (1-5 cars),3,623
+2026-07-08,Evening,Independent - Umeh Filling Station,Short (1-5 cars),8,642
+2026-07-08,Evening,NNPC - Abraka Road,Long (15+ cars),27,612
+2026-07-08,Morning,Independent - Umeh Filling Station,Medium (6-15 cars),20,643
+2026-07-08,Morning,Conoil - Obiaruku Road,Medium (6-15 cars),20,628
+2026-07-08,Morning,NNPC - Abraka Road,Medium (6-15 cars),23,615
+2026-07-09,Afternoon,Conoil - Obiaruku Road,Medium (6-15 cars),14,623
+2026-07-09,Afternoon,Mobil - Eku Junction,Short (1-5 cars),9,626
+2026-07-09,Afternoon,Independent - Umeh Filling Station,None,0,641
+2026-07-09,Evening,Mobil - Eku Junction,Medium (6-15 cars),21,628
+2026-07-09,Morning,NNPC - Abraka Road,Long (15+ cars),27,619
+2026-07-09,Morning,Independent - Umeh Filling Station,Medium (6-15 cars),11,642
+2026-07-10,Afternoon,Conoil - Obiaruku Road,Short (1-5 cars),4,624
+2026-07-10,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),8,642
+2026-07-10,Evening,Mobil - Eku Junction,Medium (6-15 cars),24,626
+2026-07-10,Morning,Mobil - Eku Junction,Short (1-5 cars),10,628
+2026-07-11,Afternoon,Total - Abraka Market Rd,Short (1-5 cars),4,629
+2026-07-11,Afternoon,NNPC - Abraka Road,Long (15+ cars),29,616
+2026-07-11,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),22,625
+2026-07-11,Morning,Conoil - Obiaruku Road,Long (15+ cars),27,624
+2026-07-11,Morning,NNPC - Abraka Road,Medium (6-15 cars),24,615
+2026-07-12,Afternoon,Mobil - Eku Junction,Medium (6-15 cars),16,632
+2026-07-12,Afternoon,Independent - Umeh Filling Station,Medium (6-15 cars),12,639
+2026-07-12,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),17,622
+2026-07-12,Morning,Total - Abraka Market Rd,Medium (6-15 cars),20,630
+2026-07-12,Morning,Independent - Umeh Filling Station,Short (1-5 cars),10,646
+2026-07-12,Morning,Conoil - Obiaruku Road,Medium (6-15 cars),16,624
+2026-07-13,Afternoon,NNPC - Abraka Road,Short (1-5 cars),10,616
+2026-07-13,Afternoon,Mobil - Eku Junction,Medium (6-15 cars),18,627
+2026-07-13,Morning,NNPC - Abraka Road,Medium (6-15 cars),22,616
+2026-07-13,Morning,Total - Abraka Market Rd,Short (1-5 cars),5,632
+2026-07-13,Morning,Mobil - Eku Junction,Medium (6-15 cars),16,628
+2026-07-14,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),4,643
+2026-07-14,Afternoon,NNPC - Abraka Road,Medium (6-15 cars),12,618
+2026-07-14,Evening,Mobil - Eku Junction,Medium (6-15 cars),18,627
+2026-07-14,Evening,Independent - Umeh Filling Station,Medium (6-15 cars),12,640
+2026-07-14,Morning,Total - Abraka Market Rd,Short (1-5 cars),7,634
+2026-07-14,Morning,Mobil - Eku Junction,Medium (6-15 cars),24,632
+2026-07-14,Morning,NNPC - Abraka Road,Medium (6-15 cars),23,618
+2026-07-15,Afternoon,NNPC - Abraka Road,Medium (6-15 cars),14,614
+2026-07-15,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),8,645
+2026-07-15,Afternoon,Total - Abraka Market Rd,Medium (6-15 cars),11,629
+2026-07-15,Evening,NNPC - Abraka Road,Long (15+ cars),26,618
+2026-07-15,Evening,Independent - Umeh Filling Station,Short (1-5 cars),3,640
+2026-07-16,Evening,NNPC - Abraka Road,Medium (6-15 cars),24,620
+2026-07-16,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),17,630
+2026-07-16,Evening,Independent - Umeh Filling Station,Short (1-5 cars),2,644
+2026-07-16,Evening,Mobil - Eku Junction,Medium (6-15 cars),23,627
+2026-07-16,Morning,NNPC - Abraka Road,Medium (6-15 cars),22,619
+2026-07-16,Morning,Mobil - Eku Junction,Medium (6-15 cars),20,624
+2026-07-17,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),1,642
+2026-07-17,Evening,Mobil - Eku Junction,Medium (6-15 cars),25,628
+2026-07-17,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),23,625
+2026-07-17,Morning,NNPC - Abraka Road,Medium (6-15 cars),25,616
+2026-07-18,Afternoon,Conoil - Obiaruku Road,Medium (6-15 cars),11,622
+2026-07-18,Evening,Mobil - Eku Junction,Long (15+ cars),33,629
+2026-07-18,Morning,Conoil - Obiaruku Road,Medium (6-15 cars),24,623
+2026-07-18,Morning,Mobil - Eku Junction,Long (15+ cars),29,631
+2026-07-19,Afternoon,NNPC - Abraka Road,Medium (6-15 cars),15,618
+2026-07-19,Evening,Mobil - Eku Junction,Medium (6-15 cars),21,628
+2026-07-19,Evening,NNPC - Abraka Road,Long (15+ cars),31,619
+2026-07-19,Evening,Independent - Umeh Filling Station,Medium (6-15 cars),12,641
+2026-07-19,Morning,Mobil - Eku Junction,Long (15+ cars),32,628
+2026-07-20,Afternoon,NNPC - Abraka Road,Medium (6-15 cars),11,619
+2026-07-20,Evening,Mobil - Eku Junction,Medium (6-15 cars),19,628
+2026-07-20,Morning,Total - Abraka Market Rd,Short (1-5 cars),2,635
+2026-07-21,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),6,649
+2026-07-21,Evening,Independent - Umeh Filling Station,Short (1-5 cars),3,648
+2026-07-21,Morning,Total - Abraka Market Rd,Medium (6-15 cars),21,635
+2026-07-22,Evening,NNPC - Abraka Road,Long (15+ cars),27,621
+2026-07-22,Evening,Independent - Umeh Filling Station,Short (1-5 cars),6,642
+2026-07-22,Morning,Independent - Umeh Filling Station,None,0,643
+2026-07-23,Afternoon,Conoil - Obiaruku Road,Short (1-5 cars),1,630
+2026-07-23,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),7,646
+2026-07-23,Evening,Total - Abraka Market Rd,Medium (6-15 cars),20,635
+2026-07-23,Evening,NNPC - Abraka Road,Long (15+ cars),28,620
+2026-07-23,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),21,627
+2026-07-23,Evening,Independent - Umeh Filling Station,Medium (6-15 cars),13,646
+2026-07-23,Morning,Total - Abraka Market Rd,Medium (6-15 cars),20,632
+2026-07-24,Afternoon,Mobil - Eku Junction,Medium (6-15 cars),16,629
+2026-07-24,Evening,Independent - Umeh Filling Station,Short (1-5 cars),2,648
+2026-07-24,Evening,NNPC - Abraka Road,Long (15+ cars),29,622
+2026-07-24,Morning,Mobil - Eku Junction,Medium (6-15 cars),15,631
+2026-07-24,Morning,Independent - Umeh Filling Station,Short (1-5 cars),6,642
+2026-07-25,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),3,646
+2026-07-25,Morning,Independent - Umeh Filling Station,Medium (6-15 cars),11,643
+2026-07-25,Morning,Total - Abraka Market Rd,Medium (6-15 cars),15,638
+2026-07-26,Afternoon,Mobil - Eku Junction,Medium (6-15 cars),17,631
+2026-07-26,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),11,628
+2026-07-27,Afternoon,Conoil - Obiaruku Road,Medium (6-15 cars),11,627
+2026-07-27,Evening,Independent - Umeh Filling Station,Medium (6-15 cars),13,648
+2026-07-27,Evening,NNPC - Abraka Road,Long (15+ cars),34,622
+2026-07-27,Evening,Total - Abraka Market Rd,Medium (6-15 cars),15,636
+2026-07-28,Afternoon,Total - Abraka Market Rd,Medium (6-15 cars),11,634
+2026-07-28,Evening,NNPC - Abraka Road,Medium (6-15 cars),22,621
+2026-07-28,Evening,Mobil - Eku Junction,Medium (6-15 cars),24,631
+2026-07-28,Morning,Total - Abraka Market Rd,Medium (6-15 cars),13,634
+2026-07-29,Afternoon,NNPC - Abraka Road,Medium (6-15 cars),14,622
+2026-07-29,Evening,Independent - Umeh Filling Station,Short (1-5 cars),10,648
+2026-07-29,Evening,Mobil - Eku Junction,Medium (6-15 cars),19,633
+2026-07-29,Evening,Conoil - Obiaruku Road,Short (1-5 cars),5,631
+2026-07-29,Evening,NNPC - Abraka Road,Medium (6-15 cars),16,623
+2026-07-29,Morning,Independent - Umeh Filling Station,Short (1-5 cars),10,648
+2026-07-30,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),4,649
+2026-07-30,Afternoon,Mobil - Eku Junction,Short (1-5 cars),5,631
+2026-07-30,Afternoon,NNPC - Abraka Road,Medium (6-15 cars),14,619
+2026-07-30,Evening,Total - Abraka Market Rd,Short (1-5 cars),10,640
+2026-07-30,Evening,Mobil - Eku Junction,Medium (6-15 cars),22,630
+2026-07-30,Evening,NNPC - Abraka Road,Long (15+ cars),34,619
+2026-07-31,Afternoon,NNPC - Abraka Road,Medium (6-15 cars),14,620
+2026-07-31,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),22,632
+2026-07-31,Morning,Conoil - Obiaruku Road,Medium (6-15 cars),19,629
+2026-07-31,Morning,NNPC - Abraka Road,Medium (6-15 cars),21,626
+2026-08-01,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),7,648
+2026-08-01,Afternoon,Total - Abraka Market Rd,Short (1-5 cars),10,635
+2026-08-01,Evening,Conoil - Obiaruku Road,Medium (6-15 cars),25,632
+2026-08-01,Evening,Mobil - Eku Junction,Medium (6-15 cars),18,632
+2026-08-01,Morning,Independent - Umeh Filling Station,Short (1-5 cars),10,652
+2026-08-02,Afternoon,Independent - Umeh Filling Station,Short (1-5 cars),9,651
+2026-08-02,Evening,Mobil - Eku Junction,Long (15+ cars),31,636
+2026-08-02,Evening,Conoil - Obiaruku Road,Long (15+ cars),28,629
+2026-08-02,Evening,Independent - Umeh Filling Station,Short (1-5 cars),8,650
+2026-08-02,Morning,Mobil - Eku Junction,Medium (6-15 cars),18,632
+2026-08-02,Morning,Conoil - Obiaruku Road,Long (15+ cars),27,630
