@@ -1,0 +1,5 @@
+Date,Time of Day,Station Name/Brand,Queue Length,Estimated Wait Time (mins),Price per Liter (NGN)
+2026-07-20,Morning,NNPC - Abraka Road,Medium (6-15 cars),20,620
+2026-07-20,Evening,Mobil - Eku Junction,Long (15+ cars),45,615
+2026-07-21,Afternoon,Total - Abraka Market Rd,Short (1-5 cars),8,625
+2026-07-22,Morning,Independent - Umeh Filling Station,None,0,610
