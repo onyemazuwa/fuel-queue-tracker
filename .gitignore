@@ -1,0 +1,21 @@
+# Data files - keep only intentional CSVs tracked, exclude working exports
+data/*.xlsx
+data/~$*
+*.tmp
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials (just in case)
+.env
+*.key
